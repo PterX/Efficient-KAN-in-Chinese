@@ -1,5 +1,4 @@
 .gitignore
-KAN-Vision.ipynb
 KAN.ipynb
 LICENSE
 README.md
@@ -88,19 +87,3 @@ ikan/groupkan/rational_kat_cu/tests/test_group.py
 ikan/groupkan/rational_kat_cu/tests/test_group_bp.py
 ikan/groupkan/rational_kat_cu/tests/test_triton.py
 ikan/groupkan/rational_kat_cu/tests/test_triton2d.py
-ikan/kat_rational/__init__.py
-ikan/kat_rational/fit.py
-ikan/kat_rational/gain.py
-ikan/kat_rational/init.json
-ikan/kat_rational/kat_1dgroup.py
-ikan/kat_rational/kat_1dgroup_torch.py
-ikan/kat_rational/kat_1dgroup_triton.py
-ikan/kat_rational/kat_2dgroup_triton.py
-ikan/kat_rational/rational_triton.py
-ikan/kat_rational/rational_triton2d.py
-ikan/kat_rational/__pycache__/__init__.cpython-310.pyc
-ikan/kat_rational/__pycache__/kat_1dgroup_torch.cpython-310.pyc
-ikan/kat_rational/__pycache__/kat_1dgroup_triton.cpython-310.pyc
-ikan/kat_rational/__pycache__/kat_2dgroup_triton.cpython-310.pyc
-ikan/kat_rational/__pycache__/rational_triton.cpython-310.pyc
-ikan/kat_rational/__pycache__/rational_triton2d.cpython-310.pyc
